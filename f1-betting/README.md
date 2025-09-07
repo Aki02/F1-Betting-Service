@@ -61,7 +61,8 @@ The project includes both unit and integration tests.
     - Duplicate bet rejection.
     - Bet after outcome rejection.
 - **Integration Tests (BettingControllerIntegrationTest)**:
-      - Place bet via REST (200 OK).
-      - Duplicate bet rejected (400 Bad Request).
+    - Place bet via REST (200 OK).
+    - Duplicate bet rejected (400 Bad Request).
+
 
 ---
